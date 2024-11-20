@@ -1,4 +1,4 @@
-# Style Transfer SOTA_Models-v1
+# Style Transfer SOTA Models-v1
 
 ## &#x1F4E2; Project Report Overview
 1. &#x2705; Style Transfer 비교 모델 조사
